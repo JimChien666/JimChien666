@@ -9,5 +9,5 @@ Currently , I’m learning about separation of front-end and backend.
 - FB: https://www.facebook.com/profile.php?id=100000258399533
 
 📝 Latest Blog posts:
-
-- 個人網站的誕生: https://jimchien666.github.io/blog/post-1/
+ 
+- [個人網站的誕生](https://jimchien666.github.io/blog/post-1/)
