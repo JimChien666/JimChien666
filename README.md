@@ -10,4 +10,6 @@ Currently , I’m learning about separation of front-end and backend.
 
 📝 Latest Blog posts:
  
+- [從實習到正職 我的爬蟲之路（一）](https://jimchien666.github.io/blog/post-2/)
+
 - [個人網站的誕生](https://jimchien666.github.io/blog/post-1/)
