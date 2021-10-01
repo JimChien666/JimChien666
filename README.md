@@ -16,10 +16,10 @@ Currently , I’m learning about separation of front-end and backend.
 - [個人網站的誕生](https://jimchien666.github.io/blog/post-1/)
 
 鐵人賽:
-- [Day1 跟著官方文件學習Laravel-前言](https://ithelp.ithome.com.tw/articles/10264522)
+- [Day15 跟著官方文件學習Laravel-實作API(二)](https://ithelp.ithome.com.tw/articles/10274378)
 
-- [Day2 跟著官方文件學習Laravel-環境設定](https://ithelp.ithome.com.tw/articles/10264894)
+- [Day16 跟著官方文件學習Laravel-初寫測試](https://ithelp.ithome.com.tw/articles/10275037)
 
-- [Day3 跟著官方文件學習Laravel-來一個登入畫面](https://ithelp.ithome.com.tw/articles/10265792)
+- [Day 17 跟著官方文件學習Laravel-再戰測試](https://ithelp.ithome.com.tw/articles/10275642)
 
-- [Day4 跟著官方文件學習Laravel-CSRF保護](https://ithelp.ithome.com.tw/articles/10266641)
+- [Day18 跟著官方文件學習Laravel-Mock](https://ithelp.ithome.com.tw/articles/10276205)
