@@ -16,8 +16,6 @@ Currently , I’m learning about separation of front-end and backend.
 - [初次認識 Http](https://jimchien666.github.io/blog/http1/)
 
 鐵人賽:
-- [Day15 跟著官方文件學習Laravel-實作API(二)](https://ithelp.ithome.com.tw/articles/10274378)
-
 - [Day16 跟著官方文件學習Laravel-初寫測試](https://ithelp.ithome.com.tw/articles/10275037)
 
 - [Day 17 跟著官方文件學習Laravel-再戰測試](https://ithelp.ithome.com.tw/articles/10275642)
